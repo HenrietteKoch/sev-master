@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>wbase</key>
+	<real>2.000000</real>
+	<key>noisestd</key>
+	<real>5.000000</real>
+	<key>noisediff</key>
+	<real>5.000000</real>
+	<key>noisediffclose</key>
+	<real>5.000000</real>
+	<key>thresholdO2</key>
+	<real>4.000000</real>
+</dict>
+</plist>
